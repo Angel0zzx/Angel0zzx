@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, soy Angelo 👋 
+**Estudiante de Ingeniería de Sistemas** con interés en el desarrollo de software y el desarrollo web.
 
-<!--
-**Angel0zzx/Angel0zzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Todavía estoy aprendiendo lo básico, pero me gusta cómo la programación te obliga a pensar diferente. Cada vez que logro que algo funcione (aunque sea simple), siento que avanzo un poco.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## En qué estoy enfocado 🔍
+- **Profundizar mis conocimientos en Java y POO**
+- **Mejorar mis habilidades en HTML y CSS** *(quiero que mis webs se vean más decentes)*
+- **Aprender JavaScript** para crear proyectos web más interesantes
+
+---
+
+## Objetivo 🚀
+Me gustaría crear aplicaciones que resuelvan problemas reales, cosas que yo usaría y que también le sirvan a otras personas. Todavía me falta camino, pero voy hacia allá.
+
+---
+
+> *Este perfil refleja mi proceso de aprendizaje en el mundo de la programación.*

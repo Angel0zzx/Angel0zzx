@@ -33,28 +33,30 @@ Empecé con backend, ahora aprendiendo frontend, buscando eventualmente unir amb
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Lo que estoy aprendiendo
 <div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="48" alt="MongoDB" />
 </div>
 
 ### Fundamentos
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" />
 </div>
 
 ### Herramientas del día a día
 <div>
-  <img src="https://img.shields.io/badge/VS_Code-2563eb?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-1e3a8a?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" alt="IntelliJ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" />
 </div>
 
+</div>
 ---
 
 ## 💭 Situación actual
@@ -67,8 +69,11 @@ Soy estudiante, así que mi experiencia viene más de proyectos personales y la 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Angel0zzx&show_icons=true&theme=cobalt&title_color=3b82f6&icon_color=60a5fa&text_color=cbd5e1&bg_color=0f172a&border_color=1e3a8a" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Angel0zzx&layout=compact&theme=cobalt&title_color=3b82f6&text_color=cbd5e1&bg_color=0f172a&border_color=1e3a8a" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Angel0zzx&theme=cobalt&background=0f172a&border=1e3a8a&stroke=3b82f6&ring=60a5fa&fire=3b82f6&currStreakNum=cbd5e1&sideNums=cbd5e1&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=94a3b8" />
@@ -85,8 +90,6 @@ Soy estudiante, así que mi experiencia viene más de proyectos personales y la 
   [![Instagram](https://img.shields.io/badge/Instagram-e11d48?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angel0zzx/)
   
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:93c5fd&height=100&section=footer" width="100%"/>

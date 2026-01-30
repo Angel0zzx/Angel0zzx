@@ -57,6 +57,8 @@ Empecé con backend, ahora aprendiendo frontend, buscando eventualmente unir amb
 </div>
 
 </div>
+
+
 ---
 
 ## 💭 Situación actual

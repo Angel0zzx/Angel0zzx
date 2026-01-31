@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### Estudiante de Ingeniería de Sistemas | Explorando el desarrollo web
+### Estudiante de Ingeniería de Sistemas | Explorando el desarrollo web
   
   <p>
     <em>Aprender algo nuevo cada día, aunque sea pequeño, es lo que me mantiene motivado.</em>

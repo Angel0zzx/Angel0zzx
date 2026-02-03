@@ -7,7 +7,7 @@
 ### Estudiante de Ingeniería de Sistemas | Explorando el desarrollo web
   
   <p>
-    <em>Aprender algo nuevo cada día, aunque sea pequeño, es lo que me mantiene motivado.</em>
+    <em>Aprender algo nuevo cada día, aunque sea pequeño, es lo que me mantiene motivado cada dia.</em>
   </p>
   
   [![GitHub followers](https://img.shields.io/github/followers/Angel0zzx?style=social)](https://github.com/Angel0zzx)
